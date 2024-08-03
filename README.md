@@ -2,7 +2,7 @@
 
 This Pokédex application allows users to view detailed information about various Pokémon. Built using React, Vite, and JSX for efficient rendering, it leverages modern CSS for styling. The app displays Pokémon cards with relevant details, ensuring a responsive and user-friendly interface. The use of Vite ensures fast development and optimized builds, making the app performant and easy to maintain.
 
-## Depolyment: 
+## Deployment: 
 
 Live Site: <a href="https://pokedex-lovat-alpha.vercel.app" target="_blank">Pokedex</a>
 
