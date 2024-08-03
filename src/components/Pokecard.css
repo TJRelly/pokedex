@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.Pokemon {
+    background-color: lightgrey;
+    border-radius: 1rem;
+    padding: 1rem 1.25rem;
+    min-width: 15rem;
+    text-align: center;
+    box-sizing: border-box;
+}
